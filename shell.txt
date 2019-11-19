@@ -21,6 +21,12 @@ memek.php
 about.php
 haha.php
 lol.php
+mini.php
+mini.php5
+mini.phtml
+noname.php
+noname.php5
+noname.phtml
 eXe.php
 eye.php
 B374K.php
