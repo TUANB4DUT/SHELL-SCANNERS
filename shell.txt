@@ -1,3 +1,7 @@
+idx.php
+idx.php5
+idx.phtml
+Kek.php
 iexup.php
 idx.php
 gt72.php
